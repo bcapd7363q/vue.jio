@@ -16,3 +16,10 @@
   CAL  : 1800-890-1977
   SRV  : ['Prepaid','Postpaid']
 
+## Predator
+-----------------------------------------------------------------
+| FEEDS |  VPN CONNECT     | WEB-RTC  |
+|:-----|:--------:|------:|
+| **DATA**   | **NET** | **COMMUNICATION** |
+| 2GB   |  WEB3  |   TURN server |
+| 2 000 000 002 Bytes   | _Network & internet_ | _API_ |
